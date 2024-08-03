@@ -2,7 +2,7 @@
 
 I am a Front End Developer 
 
-##SKILLS
+## SKILLS: 
 ![HTML](https://img.icons8.com/?size=30&id=20909&format=png&color=000000)
 ![CSS](https://img.icons8.com/?size=30&id=21278&format=png&color=000000)
 ![BootStrap](https://img.icons8.com/?size=30&id=PndQWK6M1Hjo&format=png&color=000000)
@@ -10,7 +10,7 @@ I am a Front End Developer
 ![JavaScript](https://img.icons8.com/?size=30&id=108784&format=png&color=000000)
 ![React](https://img.icons8.com/?size=30&id=NfbyHexzVEDk&format=png&color=000000)
 
-##ACCOUNTS
+## ACCOUNTS:
 [![Email](https://img.icons8.com/?size=30&id=eKlyMs0XteXZ&format=png&color=000000)](mailto:mansubsheikh4@gmail.com)
 [![twitter](https://img.icons8.com/?size=30&id=13963&format=png&color=000000)](https://twitter.com/mansub_sheikh)
 [![facebook](https://img.icons8.com/?size=30&id=118497&format=png&color=000000)](https://www.facebook.com/mansub.hafeez.1/)
