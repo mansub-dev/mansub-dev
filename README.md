@@ -47,13 +47,13 @@
 ### 📫 Let's Connect
 
 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mansub-hafeez-91125b21b/)
-- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/mansub-dev)
+- 💼 LinkedIn: [mansub-hafeez](https://www.linkedin.com/in/mansub-hafeez-91125b21b/)
+- 🧑‍💻 GitHub: [mansub-dev](https://github.com/mansub-dev)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mansub-dev&show_icons=true&theme=tokyonight" />
 </p>
