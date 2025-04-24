@@ -44,8 +44,20 @@
 
 ---
 
-### 📫 Let's Connect
+### 🎥 Featured Frontend Video
 
+> **Frontend in 100 Seconds – Fireship**  
+Quick and powerful overview of modern frontend dev—perfect for leveling up or sharing with juniors.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=qqJVMee-5us" target="_blank">
+    <img src="https://img.youtube.com/vi/qqJVMee-5us/0.jpg" alt="Frontend in 100 Seconds - Fireship" width="600px" />
+  </a>
+</p>
+
+---
+
+### 📫 Let's Connect
 
 - 💼 LinkedIn: [mansub-hafeez](https://www.linkedin.com/in/mansub-hafeez-91125b21b/)
 - 🧑‍💻 GitHub: [mansub-dev](https://github.com/mansub-dev)
