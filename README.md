@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mansub Hafeez</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -40,19 +36,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</p>
-
----
-
-### 🎥 Featured Frontend Video
-
-> **Frontend in 100 Seconds – Fireship**  
-Quick and powerful overview of modern frontend dev—perfect for leveling up or sharing with juniors.
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=qqJVMee-5us" target="_blank">
-    <img src="https://img.youtube.com/vi/qqJVMee-5us/0.jpg" alt="Frontend in 100 Seconds - Fireship" width="600px" />
-  </a>
 </p>
 
 ---
