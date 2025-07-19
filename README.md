@@ -1,54 +1,59 @@
-<h1 align="center">Hi there 👋, I'm Mansub Hafeez</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
-
----
-
-### 🚀 About Me
-
-- 💼 Frontend Developer focused on creating **clean, scalable, and interactive UIs**
-- 💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS, and modern frontend workflows**
-- 📚 Lifelong learner and UI/UX enthusiast
-
----
-
-### 🛠️ My Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
----
-
-### 🧰 Tools I Use
-
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-- 💼 LinkedIn: [mansub-hafeez](https://www.linkedin.com/in/mansub-hafeez-91125b21b/)
-- 🧑‍💻 GitHub: [mansub-dev](https://github.com/mansub-dev)
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">👋 Hi there, I'm Mansub Hafeez</h1>
+<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Code Craftsman from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansub-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+modern+frontend+experiences;Passionate+about+React+and+design;Always+learning+new+things!"/>
+</p>
+
+---
+
+## ✨ About Me
+
+- 🎨 Turning designs into pixel-perfect UI
+- ⚛️ Specializing in **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**
+- 🧠 Currently exploring **Node.js**, **NestJS**, and **PostgreSQL**
+- ✉️ Always open to **collaboration**, **freelance**, and **mentorship**
+- 📈 Focused on clean code, performance, and DX
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=electron,prisma,supabase" />
+
+</p>
+
+---
+
+## 🔧 Tools I Work With
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=vsCode,figma,git,github,chrome" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansub-dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansub-dev&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mansub-hafeez-91125b21b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mansub-dev"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
