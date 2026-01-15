@@ -21,7 +21,7 @@
 ```typescript
 const mansub = {
   location: "Gujrat, Punjab, Pakistan 🇵🇰",
-  role: "Frontend Developer",
+  role: "Developer",
   passions: ["Clean Code", "UI/UX Design", "Performance Optimization"],
   currentlyLearning: ["Node.js", "NestJS", "PostgreSQL"],
   lookingFor: ["Collaboration", "Freelance Projects", "Mentorship"],
@@ -79,18 +79,6 @@ const mansub = {
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mansub-dev&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/mansub-dev/your-repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mansub-dev&repo=another-repo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/mansub-dev/another-repo)
-
-*Replace the repo names above with your actual project repositories*
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
