@@ -1,59 +1,124 @@
-<h1 align="center">👋 Hi there, I'm Mansub Hafeez</h1>
-<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Code Craftsman from Pakistan 🇵🇰</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Mansub+Hafeez;Frontend+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+modern+frontend+experiences;Passionate+about+React+and+design;Always+learning+new+things!"/>
+  <img src="https://komarev.com/ghpvc/?username=mansub-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
+<div align="center">
+  
+### 🚀 Frontend Developer | UI/UX Enthusiast | Code Craftsman
 
-## ✨ About Me
+*Crafting modern, performant web experiences with passion and precision*
 
-- 🎨 Turning designs into pixel-perfect UI
-- ⚛️ Specializing in **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**
-- 🧠 Currently exploring **Node.js**, **NestJS**, and **PostgreSQL**
-- ✉️ Always open to **collaboration**, **freelance**, and **mentorship**
-- 📈 Focused on clean code, performance, and DX
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 About Me
+
+```typescript
+const mansub = {
+  location: "Gujrat, Punjab, Pakistan 🇵🇰",
+  role: "Frontend Developer",
+  passions: ["Clean Code", "UI/UX Design", "Performance Optimization"],
+  currentlyLearning: ["Node.js", "NestJS", "PostgreSQL"],
+  lookingFor: ["Collaboration", "Freelance Projects", "Mentorship"],
+  funFact: "I turn coffee into code ☕️ → 💻"
+};
+```
+
+- 🎨 Transforming designs into **pixel-perfect, responsive interfaces**
+- ⚛️ Deep expertise in **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**
+- 🧠 Expanding backend skills with **Node.js**, **NestJS**, and **PostgreSQL**
+- 🤝 Open to **collaboration**, **freelance opportunities**, and **mentorship**
+- 📈 Committed to **clean code**, **performance**, and **exceptional developer experience**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Skills" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,supabase,postgres" alt="Backend Skills" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,electron" alt="Tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mansub-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansub-dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansub-dev&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansub-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mansub-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mansub-dev&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/mansub-dev/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mansub-dev&repo=another-repo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/mansub-dev/another-repo)
+
+*Replace the repo names above with your actual project repositories*
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansub-hafeez-91125b21b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mansub-dev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+### ✨ Show some ❤️ by starring some repositories!
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
 
 <p align="center">
-
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=electron,prisma,supabase" />
-
-</p>
-
----
-
-## 🔧 Tools I Work With
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=vsCode,figma,git,github,chrome" />
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansub-dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansub-dev&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mansub-hafeez-91125b21b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mansub-dev"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=30" />
 </p>
