@@ -8,7 +8,7 @@
 
 <div align="center">
   
-### 🚀 Frontend Developer | UI/UX Enthusiast | Code Craftsman
+### 🚀 Developer | UI/UX Enthusiast
 
 *Crafting modern, performant web experiences with passion and precision*
 
