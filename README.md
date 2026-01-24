@@ -95,7 +95,7 @@ const mansub = {
 
 <div align="center">
   
-### 💭 Random Dev Quote
+### Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
